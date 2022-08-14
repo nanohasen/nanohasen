@@ -33,3 +33,11 @@
 </ul>
 
 I have a Github website that I want to change the domain of <a href=""> nanohasen.github.io </a> 
+
+<h3> Here is some projects I'm working on: </h3><br>
+<ul>
+ <li> Word-processor written in AWK </li>
+ <li> Dynamic website using React.js + Next.js + custom domain name </li> 
+ <li> Gamemaker game to show GML scripts </li>
+ <li> Finance Web App and Mobile App <b> Android & IOS </b> </li>
+</ul>
