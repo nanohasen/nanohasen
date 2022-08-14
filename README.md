@@ -3,25 +3,32 @@
 <h1> Hello 👋🏼 </h1>
 <h2> I'm Haakon Johansen or by my username nanohasen ( I had to choose a name ) </h2>
 
-<h3> 
-   I'm still learning Github 
-</h3>
-<nav>
- | <a href="" target="_blank"> nothing </a> |
- | <a href="" target="_blank"> nothing </a> |
- | <a href="" target="_blank"> nothing </a> |
- | <a href="" target="_blank"> nothing </a> |
-</nav>
-<p>  
-My variety of skillset lies in programming, hobby mechanic ( lawnmowers, edge cutters ), digital art, video production and music. 
-</p>
+<h2> 
+   I have learned to program in:
+</h2>
 
-<h2> Projects you can find on my Github </h2>
 <ul>
-<li> word-processor tool using AWK </li> 
-<li> personal github page </li>
-<li> GML (game maker language) scripts </li>
-<li> website templates </li>
+
+   <li> Python </li>
+   <li> Java </li>
+   <li> C++ </li>
+   <li> Go </li>
+   <li> HTML & CSS </li>
+   <li> Javascript </li>
+   
 </ul>
-<p> I think projects or examples speaks better than words so check them out </p>
- </code> 
+
+<h2> I have knowledge/experience in field such as: </h2>
+<ul>
+
+   <li> Front End Development </li>
+   <li> Backend </li> 
+   <li> Python automation </li>
+   <li> Javascript automation </li>
+   <li> Java GUI </li>
+   <li> C# Winform (Windows) and Coccoa (Mac) </li>
+   <li> Networking with C </li>
+   <li> Assembly (little bit </li>
+   
+</ul>
+
