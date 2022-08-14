@@ -26,9 +26,9 @@
    <li> Python automation </li>
    <li> Javascript automation </li>
    <li> Java GUI </li>
-   <li> C# Winform (Windows) and Coccoa (Mac) </li>
+   <li> C# Winform ( Windows ) and Coccoa ( Mac ) </li>
    <li> Networking with C </li>
-   <li> Assembly (little bit </li>
+   <li> Assembly ( little bit ) </li>
    
 </ul>
 
